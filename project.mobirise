@@ -32,6 +32,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.10",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
     "uniqCompNum": 2,
     "versionPublish": "4.7.10"
   },
@@ -39,8 +41,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "WAR OF CLANS",
+        "meta_descr": "game online yang akan mempertemukan kita dengan teman cinta dan lawan,temukan kebahagiaan anda bersama kami.\nhanya untuk anda yang berusia di atas 18 tahun",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
